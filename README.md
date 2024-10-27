@@ -1,43 +1,29 @@
-![Profile views counter](https://komarev.com/ghpvc/?username=Meph1sto666&&style=flat-square)
+# About me
 
-### <div align="center">Hello there! I'm Meph1sto666 / Meph </div>
+Hey there, I'm Mephi, glad you made it here :D
 
-<div align="center">I do mostly Backend stuff (because I'm really bad at css) and tend to neglect my projects...</div>
+Since I'm a ~~lazy~~ efficiency orientated programmer I love to automate processes especially downloads and QOL applications (mostly regarding my music and weeb stuff addiction).
 
-## <div align="center">stuff I'm learning</div>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net" alt=".net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
+I tend to neglect my projects though I'm eager to learn and try new things all the time. Mainly focussing on languages, mathematical and logical concepts as well as an increasing interest in reverse engineering.
 
-## <div align="center">current projects</div>
+Feel free to contact me on Discord `@meph1sto666` or per E-Mail though I might be a little slow to respond to mails.
 
-- Multiple Discord bots
-- Arknights calendar for events and Operator birthdays (Svelte & Skeleton)
+---
 
-___
+# Tools
 
-<div align="center">Feel free to reach out to me if you have project ideas or need help (I'll try my best)</div>
-<div align="center">
-  Mail: meph1st0666@gmx.de
-  
-  Discord: meph1sto666
-</div>
+![VS Code](https://img.shields.io/badge/VS_code-gray?style=for-the-badge&logo=vscodium) ![Neovim](https://img.shields.io/badge/Nano-gray?style=for-the-badge&logo=neovim)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&username=Meph1sto666" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&username=Meph1sto666" height="150" alt="languages graph"  />
-</div>
+# Languages
+
+![Python](https://img.shields.io/badge/Python-3%2E10%2E6-007700?style=for-the-badge&logo=python) ![Rust](https://img.shields.io/badge/Rust-1%2e81-orange?style=for-the-badge&logo=rust)
+![Java](https://img.shields.io/badge/Java-23-red?style=for-the-badge&logo=openjdk) ![C++](https://img.shields.io/badge/C++-23-blue?style=for-the-badge&logo=cplusplus)
+
+# OS
+![Linux](https://img.shields.io/badge/RebornOS-6%2E11%2E5%E2%80%93arch1%E2%80%931-lime?style=flat&color=00667f&logo=linux&logoColor=green) ![WINDOWS](https://img.shields.io/badge/Windows-10-lime?style=flat&color=00667f)
+
+# Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=meph1sto666&show_icons=true&theme=dark) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meph1sto666&layout=compact&theme=dark&langs_count=8)
+
+> I should update this page more often haha :p
