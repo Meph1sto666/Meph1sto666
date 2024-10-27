@@ -12,7 +12,7 @@ Feel free to contact me on Discord `@meph1sto666` or per E-Mail though I might b
 
 # Tools
 
-![VS Code](https://img.shields.io/badge/VS_code-gray?style=for-the-badge&logo=vscodium) ![Neovim](https://img.shields.io/badge/Nano-gray?style=for-the-badge&logo=neovim)
+![VS Code](https://img.shields.io/badge/VS_code-gray?style=for-the-badge&logo=vscodium) ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git) ![Neovim](https://img.shields.io/badge/Nano-gray?style=for-the-badge&logo=neovim)
 
 # Languages
 
