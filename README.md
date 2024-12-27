@@ -16,11 +16,11 @@ Feel free to contact me on Discord `@meph1sto666` or per E-Mail though I might b
 
 # Languages
 
-![Python](https://img.shields.io/badge/Python-3%2E10%2E6-007700?style=for-the-badge&logo=python) ![Rust](https://img.shields.io/badge/Rust-1%2e81-orange?style=for-the-badge&logo=rust)
+![Python](https://img.shields.io/badge/Python-3%2E10%2E6-007700?style=for-the-badge&logo=python) ![Rust](https://img.shields.io/badge/Rust-1%2e83-orange?style=for-the-badge&logo=rust)
 ![Java](https://img.shields.io/badge/Java-23-red?style=for-the-badge&logo=openjdk) ![C++](https://img.shields.io/badge/C++-23-blue?style=for-the-badge&logo=cplusplus)
 
 # OS
-![Linux](https://img.shields.io/badge/RebornOS-6%2E12%2E4%E2%80%93arch1%E2%80%931-lime?style=flat&color=00667f&logo=linux&logoColor=green) <!--![WINDOWS](https://img.shields.io/badge/Windows-10-lime?style=flat&color=00667f)-->
+![Linux](https://img.shields.io/badge/RebornOS-6%2E12%2E6%E2%80%93arch1%E2%80%931-lime?style=flat&color=00667f&logo=linux&logoColor=green) <!--![WINDOWS](https://img.shields.io/badge/Windows-10-lime?style=flat&color=00667f)-->
 
 # Stats
 
