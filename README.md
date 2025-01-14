@@ -20,7 +20,7 @@ Feel free to contact me on Discord `@meph1sto666` or per E-Mail though I might b
 ![Java](https://img.shields.io/badge/Java-23-red?style=for-the-badge&logo=openjdk) ![C++](https://img.shields.io/badge/C++-23-blue?style=for-the-badge&logo=cplusplus)
 
 # OS
-![Linux](https://img.shields.io/badge/RebornOS-6%2E12%2E8%E2%80%93arch1%E2%80%931-lime?style=flat&color=00667f&logo=linux&logoColor=green) <!--![WINDOWS](https://img.shields.io/badge/Windows-10-lime?style=flat&color=00667f)-->
+![Linux](https://img.shields.io/badge/RebornOS-6%2E12%2E9%E2%80%93arch1%E2%80%931-lime?style=flat&color=00667f&logo=linux&logoColor=green) <!--![WINDOWS](https://img.shields.io/badge/Windows-10-lime?style=flat&color=00667f)-->
 
 # Stats
 
